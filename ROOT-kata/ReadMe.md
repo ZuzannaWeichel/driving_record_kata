@@ -1,4 +1,9 @@
 ## To run from the command line
+* mvn install
+* cd into Target
+* java -cp rootkata-0.0.1-SNAPSHOT.jar com.zuweichel.rootkata.Main \<arguments\>
+  * for arguments you can use <someArgumentsPath/etc/input.txt> <br/>
+    one of my input.txt files inside the etc forlder or other file you want
 
 
 # Classes
